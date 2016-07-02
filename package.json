@@ -2,18 +2,15 @@
   "name": "1003",
   "version": "1.0.0",
   "description": "1003 Application",
-  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "author": "Brian",
-  "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "ejs": "^2.4.2",
     "express": "^4.14.0"
   },
-  ,
   "engines": {
     "node": ">=0.12.7"
   }
