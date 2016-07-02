@@ -1,0 +1,15 @@
+{
+  "name": "1003",
+  "version": "1.0.0",
+  "description": "1003 Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "testt"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  }
+}
